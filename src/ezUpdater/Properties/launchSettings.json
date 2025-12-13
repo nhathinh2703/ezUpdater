@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ezUpdater": {
+      "commandName": "Project",
+      "commandLineArgs": "--app-name \"Test App\"\r\n--app-exe \"Test.exe\"\r\n--app-dir \"D:\\TestApp\"\r\n--current-version \"1.0.0\"\r\n--update-json-url \"https://example.com/latest.json\""
+    }
+  }
+}
